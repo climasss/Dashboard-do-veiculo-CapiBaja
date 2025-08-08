@@ -1,5 +1,5 @@
-# Dashboard-do-veiculo-CapiBaja <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/ac8df77c-0ad4-4903-99fd-b653e79e26c7" />
-
+# Dashboard-do-veiculo-CapiBaja
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/75835634-6da1-49a3-8aa5-3d25fc77a33e" />
 
 Para fazer esse dashboard foi o utilizado o código teste.py 
 
